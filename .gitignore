@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# PyCharm
+.idea/
+
+# Virtual environments
+.venv/
+env/
+
+# Output files
+data/
+*.csv
+*.json
+
+# System files
+.DS_Store
+Thumbs.db
